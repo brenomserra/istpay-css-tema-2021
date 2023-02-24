@@ -1,0 +1,23 @@
+header {
+	background-color: #FF651E;
+	background-image: url(https://images.hdqwalls.com/download/triangles-colorful-background-nz-1920x1080.jpg);
+}
+
+.card, .container-testimonials {
+	border-radius: 15px;
+	border: 1px solid black;box;
+	box-shadow: 2px 4px rgb(18 18 18);
+}
+.testimonials {
+	border-radius: 15px !important;
+}
+
+#payment-form {
+	border: none  !important;
+	box-shadow: none !important;
+}
+
+.card-method {
+	box-shadow: none !important;
+
+}
