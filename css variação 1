@@ -1,0 +1,21 @@
+/*Para o cabeçalho (logo da loja + Imagem de SSL Certificado + Fundo colorido ou fundo com imagem URL)*/
+
+/*CSS OPÇÃO "ARTIGOS FEMININOS*/
+
+/*Cabeçalho:fundo com imagem URL*/
+header { 
+  background-image: url () /*Inserir entre parênteses o endereço da imagem*/
+}
+
+/*Cabeçalho: fundo colorido*/
+header { 
+  background-color: # /*Inserir após o # qual o código da cor/nome da cor*/
+}
+
+/*Alterações nos cards*/
+
+
+
+
+
+/*Exemplo*/
