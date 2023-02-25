@@ -4,7 +4,7 @@
 1 - Insira o logo da loja;
 2 - Insira um fundo com imagem / um fundo colorido */
 
-/* Cabeçalho:fundo com imagem URL */
+/* Cabeçalho: fundo com imagem URL */
 header { 
   background-image: url () /* Inserir entre parênteses o endereço da imagem */
 }
