@@ -24,11 +24,6 @@ header {
 	background-color: #FFE3FE;
 }
 
-.container {
-	display: flex
-	justify-content: center
-}
-
 .card, .container-testimonials {
 	border-radius: 20px;
     box-shadow: 7px 7px rgba(117, 117, 117, 0.15);
