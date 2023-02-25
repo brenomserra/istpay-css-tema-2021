@@ -6,12 +6,12 @@
 
 /* Cabeçalho: fundo com imagem URL */
 header { 
-  background-image: url () /* Inserir entre parênteses o endereço da imagem */
+  background-image: url () /* Inserir entre parênteses o endereço da imagem desejada */
 }
 
 /* Cabeçalho: fundo colorido */
 header { 
-  background-color: # /*Inserir após o # qual o código da cor/nome da cor*/
+  background-color: # /*Inserir após o # qual o código da cor/nome da cor desejado */
 }
 
 /* Copie e cole o código abaixo no CSS do Checkout */
@@ -70,7 +70,7 @@ footer .item-security {
     background-size: 193px;
     background-position-x: 15%, 82%;
     background-position-y: 17%, 45%;
-	background-color: white;
+    background-color: white !important;
 }
 
 /* Configure os seguintes dados: 
