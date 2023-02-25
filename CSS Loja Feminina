@@ -1,0 +1,83 @@
+/* CSS OPÇÃO "ARTIGOS FEMININOS */
+
+/* Cabeçalho - O que fazer?
+1 - Insira o logo da loja;
+2 - Insira um fundo com imagem / um fundo colorido */
+
+/* Cabeçalho:fundo com imagem URL */
+header { 
+  background-image: url () /* Inserir entre parênteses o endereço da imagem */
+}
+
+/* Cabeçalho: fundo colorido */
+header { 
+  background-color: # /*Inserir após o # qual o código da cor/nome da cor*/
+}
+
+/* Copie e cole o código abaixo no CSS do Checkout */
+
+header {
+	background-image: url(https://moikana.vteximg.com.br/arquivos/ids/155491/banner-moda.jpg?v=636371152658330000) !important;
+}
+
+.content {
+	background-color: #FFE3FE;
+}
+
+.container {
+	display: flex
+	justify-content: center
+}
+
+.card, .container-testimonials {
+	border-radius: 20px;
+    box-shadow: 7px 7px rgba(117, 117, 117, 0.15);
+	
+}
+.testimonials {
+	border-radius: 15px !important;
+}
+
+#payment-form {
+	border: none  !important;
+	box-shadow: none !important;
+}
+
+.card-method {
+	box-shadow: none !important;
+}
+
+.inner-header {
+	display: none;
+}
+
+#step3 {
+	display: inline-grid;
+}
+
+.mb5 {
+    margin-bottom: -2px;
+}
+
+footer .item-security {
+    position: relative;
+    margin-top: 23px;
+}
+
+.pb-3, .py-3 {
+    background: url(https://www.m3solutions.com.br/img/selossl.png), url(https://gmlnt.com/wp-content/themes/gmlmain/images/ssl-https-image.svg);
+    background-repeat: no-repeat;
+    background-size: 193px;
+    background-position-x: 15%, 82%;
+    background-position-y: 17%, 45%;
+	background-color: white;
+}
+
+/* Configure os seguintes dados: 
+
+Cor do checkout: #5b0030
+Cor do botão: #5b0030
+
+/*Exemplo*/
+
+
