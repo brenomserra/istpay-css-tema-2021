@@ -1,0 +1,80 @@
+/* CSS Loja minimalista */
+
+/* Cabeçalho - O que fazer?
+1 - Insira o logo da loja;
+2 - Insira um fundo com imagem / um fundo colorido */
+
+/* Cabeçalho: fundo com imagem URL */
+header { 
+  background-image: url () /* Inserir entre parênteses o endereço da imagem desejada */
+}
+
+/* Cabeçalho: fundo colorido */
+header { 
+  background-color: # /*Inserir após o # qual o código da cor/nome da cor desejado */
+}
+
+/* Copie e cole o código abaixo no CSS do Checkout */
+
+header {
+	background-color: #FAD961;
+	background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+
+}
+
+header .holder-logo {
+	padding: 12px 500px;
+  }		
+
+.content {
+	background: #c7c7c7;
+}
+
+.card, .container-testimonials {
+	border-radius: 20px;
+    box-shadow: 7px 7px rgba(117, 117, 117, 0.23);
+	
+}
+.testimonials {
+	border-radius: 15px !important;
+}
+
+#payment-form {
+	border: none  !important;
+	box-shadow: none !important;
+}
+
+.card-method {
+	box-shadow: none !important;
+}
+
+.inner-header {
+	display: none;
+}
+
+#step3 {
+	display: inline-grid;
+}
+
+.mb5 {
+    margin-bottom: -2px;
+}
+
+footer .item-security {
+    position: relative;
+    margin-top: 23px;
+}
+
+.pb-3, .py-3 {
+    background: url(https://www.m3solutions.com.br/img/selossl.png), url(https://gmlnt.com/wp-content/themes/gmlmain/images/ssl-https-image.svg);
+    background-repeat: no-repeat;
+    background-size: 193px;
+    background-position-x: 15%, 82%;
+    background-position-y: 17%, 45%;
+    background-color: white !important;
+}
+
+/* Configure os seguintes dados: 
+
+Cor do checkout: #000000
+Cor do botão: #2DA800 */
