@@ -36,7 +36,7 @@ header .holder-logo {
 	
 }
 .testimonials {
-	border-radius: 15px !important;
+	border-radius: 20px !important;
 }
 
 #payment-form {
