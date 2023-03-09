@@ -2,7 +2,7 @@
 
 /* Cabeçalho - O que fazer?
 1 - Insira o logo da loja;
-2 - Insira um fundo com imagem / um fundo colorido */
+2 - Insira fundo com imagem / fundo colorido */
 
 /* Cabeçalho: fundo com imagem URL */
 header { 
